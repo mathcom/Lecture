@@ -1,0 +1,7 @@
+name: postgresql
+channels:
+    - conda-forge
+dependencies:
+    - python
+    - psycopg=3.1.11
+    - jupyter
